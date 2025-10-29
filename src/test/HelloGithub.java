@@ -9,7 +9,9 @@ public class HelloGithub {
 		
 		System.out.println("3. 집에서 작업");
 		
-       System.out.println("4. 학원 추가작업");
+        System.out.println("4. 학원 추가작업");
+      
+        System.out.println("4.1. 까먹고 작업");
 		
 		
 		
