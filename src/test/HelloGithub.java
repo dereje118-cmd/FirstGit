@@ -6,6 +6,15 @@ public class HelloGithub {
 		System.out.println("1프로젝트생성");
 		
 		System.out.println("2. 내용수정");
+		
+		System.out.println("3. 집에서 작업");
+		
+       System.out.println("4. 학원 추가작업");
+		
+		
+		
+		
+	
 
 	}
 
